@@ -4,7 +4,7 @@ from textblob import TextBlob
 
 class TwitterClient(object):
     def __init__(self):
-        bearer_token = 'AAAAAAAAAAAAAAAAAAAAAJVwyAEAAAAAf8kM%2B2WZHQqHqGOuZzEHg9%2B1xtA%3DylaGX1naA51HlxCMhdl4CDDEg4tdWLSClcjw9Jt67yb3tAZGZX'
+        bearer_token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
         self.client = tweepy.Client(bearer_token=bearer_token)
 
     def clean_tweet(self, tweet):
