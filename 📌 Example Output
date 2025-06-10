@@ -1,0 +1,14 @@
+📌 Example Output
+vbnet
+
+Positive tweets percentage: 40.00 %
+Negative tweets percentage: 30.00 %
+Neutral tweets percentage: 30.00 %
+
+Positive tweets:
+- I love how Trump's rally energized so many people.
+- Donald Trump's recent speech was inspiring.
+
+Negative tweets:
+- Trump continues to spread misinformation.
+- Another lie from Donald Trump, as usual.
