@@ -19,7 +19,7 @@ This tool:
 - 📊 Results summarization with sentiment percentages
 - 📄 Minimal, easy-to-read Python code
 
-  💡 Future Improvements
+## 💡 Future Improvements
 - Visualize sentiment trends using matplotlib or Plotly
 
 - Save results to a CSV or database
