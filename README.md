@@ -19,6 +19,15 @@ This tool:
 - 📊 Results summarization with sentiment percentages
 - 📄 Minimal, easy-to-read Python code
 
+  💡 Future Improvements
+- Visualize sentiment trends using matplotlib or Plotly
+
+- Save results to a CSV or database
+
+- Deploy as a Flask web app for UI-based interaction
+
+- Use advanced NLP models like VADER or transformer-based sentiment models
+
 ## 📦 Dependencies
 
 Install required libraries with:
