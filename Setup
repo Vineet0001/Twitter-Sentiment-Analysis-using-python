@@ -1,0 +1,4 @@
+Twitter Developer Account – Create one and get your Bearer Token.
+
+Insert your Bearer Token in the code:
+bearer_token = 'your-twitter-bearer-token-here'
